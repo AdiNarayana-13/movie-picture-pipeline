@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 b4d2bc468a3886f654e57541d8353e7749fcf734 Dinesh <neravatisaidinesh2003@gmail.com> 1787543611 +0530	commit (initial): add ci cd workflows
+b4d2bc468a3886f654e57541d8353e7749fcf734 0000000000000000000000000000000000000000 Dinesh <neravatisaidinesh2003@gmail.com> 1787543627 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 b4d2bc468a3886f654e57541d8353e7749fcf734 Dinesh <neravatisaidinesh2003@gmail.com> 1787543627 +0530	Branch: renamed refs/heads/master to refs/heads/main
+b4d2bc468a3886f654e57541d8353e7749fcf734 425b29220b7846004aa858bbe78ee824038246d2 Dinesh <neravatisaidinesh2003@gmail.com> 1787544848 +0530	commit: fix backend workflow dependencies
+425b29220b7846004aa858bbe78ee824038246d2 75772e2c23e3bc58ccf0681dabd9a6f80399a32e Dinesh <neravatisaidinesh2003@gmail.com> 1787545230 +0530	commit: fix backend docker build
+75772e2c23e3bc58ccf0681dabd9a6f80399a32e 434281e6a37428054ab525d2c3e8c2ec08eda7d4 Dinesh <neravatisaidinesh2003@gmail.com> 1787545810 +0530	commit: use stable backend python image
+434281e6a37428054ab525d2c3e8c2ec08eda7d4 03b1e357aed444c3a42cc4d6ed348dfdd5ad1cec Dinesh <neravatisaidinesh2003@gmail.com> 1787557101 +0530	commit: Fix backend CD deployment
+03b1e357aed444c3a42cc4d6ed348dfdd5ad1cec 0c6ac7c6b869b8046046d3e2dd41b7cd07cd797a Dinesh <neravatisaidinesh2003@gmail.com> 1787560122 +0530	commit: Fix backend ECR deployment
+0c6ac7c6b869b8046046d3e2dd41b7cd07cd797a bb11b291bb50aac1faaad71590ae07e9e9c12972 Dinesh <neravatisaidinesh2003@gmail.com> 1787560644 +0530	commit: Fix frontend ECR deployment
